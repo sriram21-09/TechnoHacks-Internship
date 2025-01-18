@@ -6,7 +6,6 @@ Task-1
 🔍 Wireshark is a widely-used open-source network protocol analyzer that lets you dive deep into network traffic and packets. It’s a must-have tool for cybersecurity professionals, network engineers, and ethical hackers.
 
 ✨ Key Features:
-
 Packet Inspection: Capture and analyze data packets in real-time.
 Protocol Analysis: Understand network protocols in depth.
 Troubleshooting: Diagnose and resolve network issues effectively.

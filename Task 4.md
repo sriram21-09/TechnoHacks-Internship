@@ -5,7 +5,9 @@ Server logs are more than just lines of data—they’re a goldmine for uncoveri
 Why Sublime Text?
 
 🖥️ Efficiency: Handles even massive log files with ease, offering unmatched speed.
+
 🔍 Advanced Search: Quickly pinpoint patterns like failed login attempts, suspicious IP addresses, or error codes (401, 403, 500).
+
 ✨ Customization: Syntax highlighting and plugins make the analysis process smoother and more precise.
 
 Impact:

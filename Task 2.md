@@ -6,7 +6,9 @@ Nmap (Network Mapper) is an essential tool for network discovery and security au
 
 💡 Why use Nmap?
 ✅ Gain visibility into your network.
+
 ✅ Identify vulnerabilities and misconfigurations.
+
 ✅ Strengthen overall security practices.
 
 

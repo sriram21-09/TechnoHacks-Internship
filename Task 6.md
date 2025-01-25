@@ -27,5 +27,7 @@ A clear risk matrix to prioritize threats based on likelihood and impact, ensuri
 
 "This report is based on a fictional organization created for educational purposes.
 
+https://www.linkedin.com/posts/activity-7287110236946001921-TXkj?utm_source=share&utm_medium=member_desktop
+
 "[Risk Assessment Report for Apex Dynamics.pdf]
 (https://github.com/user-attachments/files/18545608/Risk.Assessment.Report.for.Apex.Dynamics.pdf)

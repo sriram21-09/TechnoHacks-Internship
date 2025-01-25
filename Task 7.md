@@ -18,10 +18,13 @@ https://www.linkedin.com/posts/activity-7287779359522705408-V8nc?utm_source=shar
 
 CODE:-
 
-import re
 
-def analyze_log(file_path):
+     import re
+
+     def analyze_log(file_path):
+
     try:
+    
         # Open the log file with proper encoding
         with open(file_path, 'r', encoding='utf-8', errors='ignore') as file:
             lines = file.readlines()
@@ -52,8 +55,3 @@ def analyze_log(file_path):
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
 
-# Path to the log file (update this with the correct path)
-log_file_path = r"C:\Users\srira\Downloads\sample.log"
-
-# Call the function
-analyze_log(log_file_path)
